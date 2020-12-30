@@ -1,0 +1,19 @@
+body {
+  background-color: #1a1a1a;
+  color: #fff;
+}
+.more-photo,
+.getInTouch {
+  background-color: #fff;
+}
+.more-photo .h1,
+.getInTouch .h1,
+.fixed-menu span i,
+.more-photo .content-more p,
+.more-photo .content-more span,
+.getInTouch span {
+  color: rgb(26, 25, 25);
+}
+.footer .content-footer .links ul > li a{
+    color:#FFF
+}
